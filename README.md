@@ -7,5 +7,7 @@ Data can be viewed graphically for either the entire world or for any specific c
 
 ## Build
 
+`HTML, CSS, JS`
+
 ## Instructions
 
