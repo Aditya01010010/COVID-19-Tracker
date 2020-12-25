@@ -9,7 +9,8 @@ Data can be viewed graphically for either the entire world or for any specific c
 
 `HTML, CSS, JS`  
 `React`    
-`Material-UI`
+`Material-UI`  
+`Chart.js`
 
 ## Instructions
 
