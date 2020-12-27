@@ -11,6 +11,7 @@ Data can be viewed graphically for either the entire world or for any specific c
 `React`    
 `Material-UI`  
 `Chart.js`
+`Axios`
 
 ## Instructions
 
