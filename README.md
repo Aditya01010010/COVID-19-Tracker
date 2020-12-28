@@ -10,7 +10,7 @@ Data can be viewed graphically for either the entire world or for any specific c
 `HTML, CSS, JavaScript`  
 `React`    
 `Material-UI`  
-`Chart.js`
+`Chart.js`  
 `Axios`
 
 ## Instructions
