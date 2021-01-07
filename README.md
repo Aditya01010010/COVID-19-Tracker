@@ -12,7 +12,4 @@ Data can be viewed graphically for either the entire world or for any specific c
 `Material-UI`  
 `Chart.js`  
 `Axios`
-  
-
-## Instructions
 
